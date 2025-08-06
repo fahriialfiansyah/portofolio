@@ -1,6 +1,3 @@
-import LibraryImage from "@/assets/library.png";
-import SkygazeImage from "@/assets/skygaze.png";
-import TodoImage from "@/assets/todo.png";
 import { StaticImageData } from "next/image";
 import { cache } from "react";
 
